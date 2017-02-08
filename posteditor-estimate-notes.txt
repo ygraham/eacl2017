@@ -1,0 +1,23 @@
+The professional post-editor prepared the estimate using a 0.35 TER threshold for offering post-editing discounts. This threshold was used because the experiments reported in \newcite{Parra:2015a} and \newcite{Parra:2015b} show that a TER of 0.35 or lower is needed to obtain a productivity increase in English into Spanish MT post-editing tasks in the technical domain and the data used in this paper belongs to the same language pair and domain.
+
+The post-editor was provided with the TER scores for each file to prepare the post-editing estimate. According to her calculations, 35 files would qualify for a discount. These files account for 16,531 words. As their TER values range between 0.35 and 0.32, the expected productivity increase would be minimal (around 10\%). Thus, for computing times and cost, a compensation of 10\% is applied. For the estimation, instead of 16,531 words, 14,878 were used (1,653 words less). The other 27 files would not qualify for a discount, and account for 9,566 words. Table \ref{tab:PE_estimate} summarises these calculations.
+
+\begin{table}[h]
+\centering
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lcccc}
+ & \multirow{2}{*}{\textbf{\# words}} & \multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}c@{}}\# compensated\\ words\end{tabular}}} & \multicolumn{2}{c}{\textbf{Rate (€/word)}} \\
+ &  &  & \multicolumn{1}{l}{\textbf{0.09}} & \multicolumn{1}{l}{\textbf{0.12}} \\ \hline
+w discount & 16,531 & 14,878 (-10\%) & 1,339.01 & 1,785.3 \\
+w/o discount & 9,566 & - & 860.94 & 1,147.9 \\ \hline
+Total costs & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{2,199.95} & \multicolumn{1}{l}{2,933.26} \\ \hline
+Saving & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \textbf{148.77} & \textbf{198.37}
+\end{tabular}%
+}
+\caption{Estimate as to how many words would get a discount for PE and the overall costs of the project provided by a professional post-editor.}
+\label{tab:PE_estimate}
+\end{table}
+
+Taking into account that a professional translator translates between 2,500 and 3,000 words in a working day, we assume that this project would take between 8 and 10 days. Thanks to MT, the project would be finished around half a day quicker. We would have to add to that the proofreading by a second translator (reviser), at a pace of 1,000 words/hour (3 extra days).
+
+If the project was assigned to a freelancer, the rates would range between EUR 0.09 and EUR 0.12 per word. This means that the project, taking into account the discount for those files that qualify, would cost between EUR 2,200 and EUR 2,933. MT would lead to a cost reduction between EUR 148 and nearly EUR 198. Bearing in mind that it is a large project, the post-editor said she would charge EUR 0.10 per word, and therefore the overall cost would be of EUR 2,444. The savings thanks to MT would be in this case of EUR 165.
