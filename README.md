@@ -2,7 +2,8 @@
 
 Data employed in experiments in the following publication:
 
-Yvette Graham, Qingsong Ma, Timothy Baldwin, Qun Liu, Carla Parra, Carolina Scarton. 2017. Improving Evaluation of Document-level MT Quality Estimation. To appear in Proceedings of the 15th European Chapter of the Association for Computational Linguistics (EACL), Valencia, Spain. 
+> Yvette Graham, Qingsong Ma, Timothy Baldwin, Qun Liu, Carla Parra, Carolina Scarton. 2017. Improving Evaluation of Document-level MT Quality Estimation. To appear in Proceedings of the 15th European Chapter of the Association for Computational Linguistics (EACL), Valencia, Spain. 
+> [PDF](https://www.computing.dcu.ie/~ygraham/grahametal-eacl17.pdf)
 
 Experiments involved collection of human judgments of the adequacy of translations using direct assessment on Mechanical
 Turk in two separate experiment runs (Run A and Run B). All files have been anonymised to avoid linking back to specific MTurk worker accounts. Human assessment is done on the sentence level and combined into a human score for documents to be employed for the prupose of evaluating MT document-level quality estimation systems.
